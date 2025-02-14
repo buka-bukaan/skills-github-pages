@@ -2,4 +2,4 @@
 title: Welcome to my blog bruhh
 ---
 
-cuhhh
+this is my blog
